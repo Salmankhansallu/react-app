@@ -1,6 +1,8 @@
+
 const Sdata=[
     {
         imgsrc:'image/download (1).jpg',
+        
         title:'MMMUT',
         content:'Madan Mohan Malaviya University of Technology (MMMUT), Gorakhpur was established in 2013 and is recognised by the UGC.',
         abc:'http://www.mmmut.ac.in/'

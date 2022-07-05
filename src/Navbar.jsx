@@ -1,6 +1,6 @@
 import React from 'react';
 import {NavLink} from 'react-router-dom';
-// import im from 'image/th.jpg';
+//  import im from './image/th.jpg';
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 import '../node_modules/bootstrap/dist/js/bootstrap.bundle.js';
 const Navbar=()=>{
@@ -12,7 +12,7 @@ const Navbar=()=>{
  <div className='col-10 mx-auto'>
  <nav className="navbar navbar-expand-lg navbar-light bg-light">
   <div className="container-fluid">
-    <NavLink className="navbar-brand" to="/"><img src="image/th.jpg "alt='img'></img></NavLink>
+    <NavLink className="navbar-brand" to="/"><img src="image/th.jpg" alt='img'></img></NavLink>
     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
      aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span className="navbar-toggler-icon"></span>
