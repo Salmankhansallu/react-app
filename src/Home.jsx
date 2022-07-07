@@ -1,4 +1,5 @@
 import React from 'react';
+import homeimg from '../src/image/home.png';
 import './index.css';
 // import {NavLink} from 'react-router-dom';
 import Common from './Common';
@@ -7,7 +8,7 @@ const Home=()=>{
     <>
    <Common
     name="Grow your business with"
-    imgsrc='image/home.png'
+    imgsrc={homeimg}
     visit='/service'
     btname='Get Started'
    />
