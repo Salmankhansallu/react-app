@@ -6,7 +6,7 @@ const About=()=>{
     <>
     <Common
       name="Welcome to About Page"
-    imgsrc='image/images (1).jpg'
+    imgsrc='image/about.jpg'
     visit='/contact'
     btname='Contact Now'
     />

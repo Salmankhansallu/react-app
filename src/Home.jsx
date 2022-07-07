@@ -7,7 +7,7 @@ const Home=()=>{
     <>
    <Common
     name="Grow your business with"
-    imgsrc='image/images2.png'
+    imgsrc='image/home.png'
     visit='/service'
     btname='Get Started'
    />
