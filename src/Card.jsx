@@ -16,7 +16,7 @@ const Card=(props)=>{
                     <div className="card-body">
                       <h5 className="card-title font-weight-bold">{props.title}</h5>
                       <p className="card-text">{props.content}</p>
-                      <a href={props.abc} className="btn btn-primary">Go somewhere</a>
+                      <a href={props.link} className="btn btn-primary">Go somewhere</a>
                     </div>
                   </div>
                   </div>
